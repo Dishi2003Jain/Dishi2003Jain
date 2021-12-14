@@ -1,7 +1,7 @@
 <h2 align="center">
 <h1 align="center">Hi , I am Dishi Jain</h1>
 <p align="left">
-<a href="https://github.com/gaurav147-star"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=gaurav147-star.visitor-badge" /></a>
+<a href="https://github.com/Dishi2003Jain"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=Dishi2003Jain.visitor-badge" /></a>
 
 <h3 align="center">I’m currently learning Full Stack Dev & DSA</h3>
 </p>
@@ -9,10 +9,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/DishiJain171" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-08143D?style=for-the-badge&logo=twitter&logoColor=white" alt="gaugupta147" height="30"  /></a>
-<a href="https://www.linkedin.com/in/dishi-jain-8848401b8" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FF3D00?style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurav-gupta-b913aa202" height="30"  /></a>
-<a href="https://instagram.com/dishi._.nayak?utm_medium=copy_link" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-D44FB7?style=for-the-badge&logo=instagram&logoColor=white" alt="gaurav07gupta" height="30"  /></a>
-<a href="https://dishinayak223@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gauravgupta9158@gmail.com" height="30"  /></a>
+<a href="https://twitter.com/DishiJain171" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-08143D?style=for-the-badge&logo=twitter&logoColor=white" alt="" height="30"  /></a>
+<a href="https://www.linkedin.com/in/dishi-jain-8848401b8" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FF3D00?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="30"  /></a>
+<a href="https://www.instagram.com/dishi._.nayak/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-D44FB7?style=for-the-badge&logo=instagram&logoColor=white" alt="" height="30"  /></a>
+<a href="https://dishinayak223@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dishinayak223@gmail.com" height="30"  /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -36,9 +36,9 @@
 <table align="center">
   <tr>
 
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishi2003Jain&langs_count=8&theme=nightowl" alt="gaurav gupta"/></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishi2003Jain&langs_count=8&theme=nightowl" alt=""/></td>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=Dishi2003Jain&theme=nightowl&show_icons=true" alt="gaurav gupta" />
+<td><img src="https://github-readme-stats.vercel.app/api?username=Dishi2003Jain&theme=nightowl&show_icons=true" alt="" />
   </tr>  
 </table>
  <h2 align="center">
